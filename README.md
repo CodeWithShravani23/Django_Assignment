@@ -1,5 +1,5 @@
 # Django_Assignment
-# Django Internship Project
+
 
 ## Setup Instructions
 
